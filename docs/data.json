@@ -126,6 +126,32 @@
       "level": 1
     },
     {
+      "name": "Vansh Singhal",
+      "github": "vansh09-singhal",
+      "skills": [
+        "Python",
+        "C++",
+        "SQL",
+        "LangChain",
+        "LLMs",
+        "Machine Learning",
+        "NLP",
+        "Streamlit",
+        "Data Cleaning",
+        "Data Preprocessing"
+      ],
+      "interests": [
+        "agent workflows",
+        "retrieval-augmented generation",
+        "data analytics",
+        "system scalability",
+        "evaluation and feedback loops",
+        "prompt engineering"
+      ],
+      "track": "A: Agent Builders",
+      "level": 1
+    },
+    {
       "name": "Vineet Sharma",
       "github": "vineetsharma18",
       "skills": [
@@ -148,6 +174,21 @@
         "security"
       ],
       "track": "",
+      "level": 1
+    },
+    {
+      "name": "Vusala Akanksha",
+      "github": "Chutki319239",
+      "skills": [
+        "python",
+        "llm",
+        "machine learning"
+      ],
+      "interests": [
+        "agents",
+        "genAI"
+      ],
+      "track": "A: Agent Builders",
       "level": 1
     },
     {

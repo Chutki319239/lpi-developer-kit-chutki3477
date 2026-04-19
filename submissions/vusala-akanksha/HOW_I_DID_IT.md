@@ -63,3 +63,4 @@ First I read and understood the requirements for Level 3 which were:
 This was my first time building an AI agent and understood that AI agent is not just LLM's or GPT's or chatbots but rather it is a system which takes user input,calls tools, structures response,processes it and gives an explainable output. Also explainable AI is not just the model explaining but the user being aware of what tools are being used and from what data the answer has been framed.
 Discovered for the first time that AI model doesnt call a function directly but rather sends a structured request through protocol. Used Python and Node together first time and understood JSON structure.
 Integrating this kind of architecture in healthcare will engage user trust while also ensuring that the responses received are cited and valid.
+
